@@ -1,6 +1,6 @@
 " vim-plug
 
-call plug#begin()
+call plug#begin(~/.local/share/nvim/site/plugged)
 
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
